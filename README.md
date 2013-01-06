@@ -22,9 +22,17 @@ where a version of UAE is available.
 
 ## Controls
 
+By default player 1 uses the joystick, other players use the keyboard. This can
+be changed in the `Options` menu.
+
+Controls per players are:
+
+- Player 1: Joystick 1 (default) - or - 5, 2, 1, 3, Numpad Return
+- Player 2: Joystick 2 - or - E, D, O, P, Space (default)
+- Player 3: Arrow keys, Return
+
 While it is possible to play a 3-player game solely on the Amiga keyboard, using
-gamepads is highly recommended. By default all players are configured to use the
-keyboard. This can be changed in the `Options` menu.
+joysticks is highly recommended.
 
 # Licensing
 
