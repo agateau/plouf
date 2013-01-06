@@ -1,6 +1,6 @@
 # Introduction
 
-Plouf! is an old Amiga game I wrote a long time ago.
+Plouf! is an Amiga game I wrote a long time ago.
 
 It is a top-down 2-or-3-players game which features people sitting on floats,
 trying to sink the other players by throwing sea urchins at them.
@@ -45,9 +45,9 @@ Plouf! was created using AMOS, a game-oriented Basic language. It was released
 as a shareware in 1994: a floppy disk of the demo version (limited to 4 plays)
 could be ordered from a few Amiga freeware and shareware floppy disk dealers.
 
-To my knowledge, it was never made available on the Internet. The floppy disks
-containing the source code stayed for 18 years together with my Amiga in a
-storage room.
+To my knowledge, it has never been made available on the Internet. The floppy
+disks containing the source code stayed for 18 years together with my Amiga in
+a storage room.
 
 Some time ago I decided to release it as free software. I bought a NULL-modem
 cable and transfered the source code to my laptop. I then adjusted a few things,
@@ -56,27 +56,27 @@ released it.
 
 # About the source code
 
-The source code for the game is in the `plouf.AMOS` file. A `.AMOS` file is a
-binary format, bundling together the source code and the program assets. You
-need the AMOS Editor to read it.
+The source code for the game is in the `plouf.AMOS` file. Note that `.AMOS`
+files are binary format, bundling together the source code and the program
+assets. You need the AMOS Editor to read them.
 
 There was also an asset editor named "Plouf! Config". This editor was available
 with the full version. Its source code is in `plouf config.AMOS`.
 
-Note that while all visible strings have been translated to English, I did not
-go through the trouble of translating the source code: all comments, variables
-and procedure names are still in French.
+All visible strings have been translated to English, but I did not go through
+the trouble of translating the source code: all comments, variables and
+procedure names are still in French.
 
 ## Compiling a new version of Plouf!
 
 (This section is more like a personal note in case I decide to work on Plouf!
-again.)
+again)
 
 Make sure AMOS Compiler has been installed on AMOS main disk.
 
 - Start AMOS
 - Open Compiler.AMOS
-- Click the target button until it reads "Cli"
+- Click the top-right button until it reads "Cli"
 - Click the "Compile" button
 - As source code: use `Plouf.AMOS`
 - As destination: enter `Plouf!`
