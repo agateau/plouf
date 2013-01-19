@@ -6,7 +6,8 @@ It is a top-down 2-or-3-players game which features people sitting on floats,
 trying to sink the other players by throwing sea urchins at them.
 
 You control your float like an RC car: you can accelerate, slow down and rotate
-left or right.
+left or right. The islands on the screen are randomly generated, so each game
+looks different.
 
 You start with a very limited number of sea urchins, so you need to collect them
 as they appear randomly in the sea. You can also grab float bonuses which
