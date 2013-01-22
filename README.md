@@ -43,8 +43,8 @@ GPLv3 or later.
 # History
 
 Plouf! was created using AMOS, a game-oriented Basic language. It was released
-as a shareware in 1994: a floppy disk of the demo version (limited to 4 plays)
-could be ordered from a few Amiga freeware and shareware floppy disk dealers.
+as a shareware in 1994: a floppy disk of the demo version (limited to 4 games)
+could be obtained from a few Amiga freeware and shareware floppy disk dealers.
 
 To my knowledge, it has never been made available on the Internet. The floppy
 disks containing the source code stayed for 18 years together with my Amiga in
